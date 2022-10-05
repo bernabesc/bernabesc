@@ -14,7 +14,7 @@
 ## Stats <img src="https://media.giphy.com/media/VEzBzSyEOKtXGuPIQw/giphy.gif" width="30px">
   
 <a href="https://github.com/bernabesc">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bernabesc&theme=dracula&show_icons=true&&hide_border=true&count_private=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernabesc&layout=compact&langs_count=8&hide_border=true&theme=dracula"/>
+  <img height="150em" width="350" src="https://github-readme-stats.vercel.app/api?username=bernabesc&theme=dracula&show_icons=true&&hide_border=true&count_private=true"/> <img height="150em" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernabesc&layout=compact&langs_count=8&hide_border=true&theme=dracula"/>
 
 ## Profiles
   
