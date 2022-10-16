@@ -41,3 +41,6 @@
  [<img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white">](https://discordapp.com/users/LimitlessBerna#6797)
 
 <img src="https://img.shields.io/github/watchers/bernabesc/bernabesc.svg" align="right">
+
+[![@BernabeSoto's Holopin board](https://holopin.io/api/user/board?user=bernabesoto)](https://holopin.io/@bernabesoto)
+
