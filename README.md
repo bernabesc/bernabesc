@@ -36,15 +36,23 @@ I'm a **Backend Developer** focused on building robust, scalable systems and ser
 
 ---
 
+## Trophies
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=bernabesc&theme=onedark&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
 ## Featured Projects
 
 <a href="https://github.com/bernabesc/KafkaTools">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=bernabesc&repo=KafkaTools&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="KafkaTools" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=bernabesc&repo=KafkaTools&theme=react&bg_color=00000000&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="KafkaTools" />
 </a>
 
 <br/><br/>
 
-[![All Repositories](https://custom-icon-badges.demolab.com/badge/-View%20All%20Repositories-1F222E?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/bernabesc?tab=repositories&sort=stargazers)
+[![All Repositories](https://custom-icon-badges.demolab.com/badge/-View%20All%20Repositories-161B22?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/bernabesc?tab=repositories&sort=stargazers)
 
 ---
 
@@ -52,9 +60,17 @@ I'm a **Backend Developer** focused on building robust, scalable systems and ser
 
 <div align="center">
 
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=bernabesc&theme=react&hide_border=true&background=1F222E&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=bernabesc&theme=react&hide_border=true&background=00000000&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&sideNums=F85D7F&sideLabels=A0ADB4" />
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernabesc&layout=compact&langs_count=8&hide_border=true&theme=react&bg_color=1F222E&title_color=F85D7F" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernabesc&layout=compact&langs_count=8&hide_border=true&theme=react&bg_color=00000000&title_color=F85D7F&text_color=FFFFFF" />
+
+</div>
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/bernabesc/bernabesc/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 
 </div>
 
@@ -63,7 +79,5 @@ I'm a **Backend Developer** focused on building robust, scalable systems and ser
 <div align="center">
 
 [![Holopin Board](https://holopin.io/api/user/board?user=bernabesoto)](https://holopin.io/@bernabesoto)
-
-<img src="https://img.shields.io/github/watchers/bernabesc/bernabesc.svg?style=flat-square&color=1F222E" />
 
 </div>
